@@ -25,4 +25,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwillpinchu&show_icons=true&locale=en&layout=compact" alt="iwillpinchu" /></p>
 
-<center>![LeetCode Stats](https://leetcard.jacoblin.cool/IWillPinchU?theme=nord&font=Noto%20Serif%20Georgian&ext=heatmap)</center>
+<p align="center">![LeetCode Stats](https://leetcard.jacoblin.cool/IWillPinchU?theme=nord&font=Noto%20Serif%20Georgian&ext=heatmap)</p>
