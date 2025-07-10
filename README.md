@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanskar Singhal</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" width="400" src="[https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fvininjr%2Fd29bb07bdadb41e4b0923bc8fa748b1a&psig=AOvVaw3y8W2v2u-B2u9dnbZu0ypW&ust=1752241801798000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj8ycO3so4DFQAAAAAdAAAAABAE)">
+<img align="right" width="400" src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 - 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **DSA, Java backend development**
