@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA, Java backend development**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
+- 👨‍💻 All of my projects are available at my github-> https://github.com/IWillPinchU
 
 - 💬 Ask me about **Java, Spring, DSA**
 
