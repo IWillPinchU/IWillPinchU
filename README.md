@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskar Singhal</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-- 🔭 I’m currently working on  **Myself**
+- 🔭 I’m currently working on Myself
 
 - 🌱 I’m currently learning **DSA, Java backend development**
 
